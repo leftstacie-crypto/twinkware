@@ -19,4 +19,10 @@ do
 
 	if game.gameId == 3747388906 then -- // Apoc Rising 2
 	end
+
+	if game.gameId == 3747388906 then -- // Counter blox
+	end
+
+	if game.gameId == 3747388906 then -- // Place Holder
+	end
 end

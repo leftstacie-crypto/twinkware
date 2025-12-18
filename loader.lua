@@ -8,9 +8,8 @@ do
                     game.Loaded:Wait()
                 until game:IsLoaded()
             end
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/leftstacie-crypto/twinkware/refs/heads/main/memorybypass.lua"))()
             script_key = readfile("Twinkware.txt")
-            loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e4cefa42217d7c4274c9efd11ddc0c1d.lua"))()
+            loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1a426fc4da846f089df7f119a79d3307.lua"))()
         end)
 	end
 
